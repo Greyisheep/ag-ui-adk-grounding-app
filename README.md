@@ -251,10 +251,6 @@ pip install -r requirements.txt
 
 Contributions are welcome! This is a great learning resource for building AI agents.
 
-## 📝 License
-
-MIT License - see LICENSE file for details
-
 ## 🙏 Acknowledgments
 
 Built with:
