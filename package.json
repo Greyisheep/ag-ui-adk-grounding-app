@@ -2,12 +2,12 @@
   "name": "ag-ui-adk-grounding-app",
   "version": "1.0.0",
   "description": "Full-stack AI agent with Google ADK, Google Maps & Search grounding, CopilotKit, and AG-UI",
-  "author": "Your Name",
+  "author": "Claret Ibeawuchi <claret@greyisheep.com>",
   "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ag-ui-adk-grounding-app"
+    "url": "https://github.com/Greyisheep/ag-ui-adk-grounding-app"
   },
   "keywords": [
     "ai-agent",
